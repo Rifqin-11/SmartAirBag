@@ -1,5 +1,6 @@
 # SmartAirBag
 
+![React](https://img.shields.io/badge/React.js-%5E18.0.0-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%5E3.0-green?logo=tailwind-css) 
 [![Website](https://img.shields.io/badge/Preview-Live%20Demo-brightgreen)](https://smartairbag.rifqinaufal11.studio/)  
 
 SmartAirBag is a modern web application designed to monitor the status of vehicle airbags in real time. It provides an overview of critical data, including vehicle type, airbag pressure, vehicle speed, and the airbag's status (e.g., "Active" or "Crash Detected"). Additionally, the application features an interactive map to visualize the vehicle's location.
